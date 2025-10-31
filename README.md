@@ -23,3 +23,6 @@ preparar o comit
 
 comitar o codigo
 >git commit -m "meu primeiro commit"
+
+enviar o commit para o repositorio 
+>git push origin develop
